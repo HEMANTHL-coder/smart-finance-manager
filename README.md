@@ -14,3 +14,51 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# 💰 Smart Personal Finance Manager
+
+A modern fintech-style personal finance dashboard built using **React.js** and **Recharts**.
+
+## 🚀 Features
+- Add income and expenses
+- AI-based auto categorization
+- Budget tracking & predictions
+- Savings insights
+- Interactive charts (Bar, Pie, Line)
+- LocalStorage persistence
+- Clean modern UI
+
+## 🛠️ Tech Stack
+- React.js (Vite)
+- Recharts
+- JavaScript
+- CSS
+- LocalStorage
+
+## 📊 Dashboard Includes
+- Income vs Expense tracking
+- Category-wise spending analysis
+- Monthly budget monitoring
+- Cash flow timeline
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## ▶️ Run Locally
+```bash
+npm install
+npm run dev
+
+📌 Future Improvements
+
+Firebase authentication
+
+Cloud database
+
+Export reports (PDF/CSV)
+
+AI-based expense prediction
+
+👨‍💻 Author
+
+Hemanth L 
