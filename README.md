@@ -49,6 +49,9 @@ A modern fintech-style personal finance dashboard built using **React.js** and *
 npm install
 npm run dev
 
+## 🔗 Live Demo
+https://smart-finance-manager-seven.vercel.app/
+ 
 📌 Future Improvements
 
 Firebase authentication
