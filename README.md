@@ -50,6 +50,7 @@ npm install
 npm run dev
 
 ## 🔗 Live Demo
+check the live demo in vercel app
 https://smart-finance-manager-seven.vercel.app/
  
 📌 Future Improvements
